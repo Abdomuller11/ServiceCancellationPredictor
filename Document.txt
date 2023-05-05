@@ -1,0 +1,13 @@
+all used algoritms in our project are:6.algorithms for our supervised dataset. 
+
+1.decision tree classifier algoritm(Dimensionality Reduction) (from sklearn.tree import DecisionTreeClassifier)
+2.naive Bayes algorithm  (from sklearn.naive_bayes import MultinomialNB,GaussianNB)
+3.Random Forest (from sklearn.ensemble import RandomForestClassifier)
+4.Support Vector Classification algorithm (from sklearn.svm import SVC)
+5.LogisticRegression algorithm (from sklearn.linear_model import LogisticRegression)
+6.K Nearest Classifier algorithm (from sklearn.neighbors import KNeighborsClassifier)
+
+
+
+
+-----------------------------thankx
